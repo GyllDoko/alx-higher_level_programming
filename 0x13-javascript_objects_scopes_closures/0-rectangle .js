@@ -2,8 +2,8 @@
 
 class Rectangle {
   constructor () {
-   
-  }
+  super()
+   }
 }
 
 module.exports = Rectangle;
